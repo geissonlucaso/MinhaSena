@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Tamanho de fontes -->
+    <dimen name="numero_sorteado">28sp</dimen>
+
+    <!-- Tamanho de widgets -->
+    <dimen name="margem_superior_sorteio">40dp</dimen>
+
+</resources>
