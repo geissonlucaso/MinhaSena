@@ -1,13 +1,13 @@
 # Minha Sena :four_leaf_clover:
 Minha Sena é um aplicativo construido para a plataforma Android. Quando você não estiver inspirado para pensar em números para jogar, deixe o Minha Sena dar um palpite!
 
-:on:**Funções do aplicativo**
+:on: **Funções do aplicativo**
 
 ​	:game_die: Geração das seis dezenas ordenadas. Jogo pronto para aposta!
 
 ---
 
-:soon:***Funções futuras***
+:soon: ***Funções futuras***
 
 ​	:star2: SplashScreen.
 
@@ -21,4 +21,4 @@ Minha Sena é um aplicativo construido para a plataforma Android. Quando você n
 
 :penguin:Open Source
 
-:iphone:Aplicativo construido em Java.
+:iphone:Native Android
