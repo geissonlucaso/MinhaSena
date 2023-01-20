@@ -33,7 +33,6 @@ public class MainActivity extends AppCompatActivity {
             numerosSorteados[i] = numero;
         }
 
-        bubbleSort(numerosSorteados);
         refatoraNumerosRepetidos(numerosSorteados);
 
         for (int i = 0; i < numerosSorteados.length; i++) {
@@ -60,9 +59,11 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void refatoraNumerosRepetidos(int[] vet) {
+        bubbleSort(vet);
+
         for (int i = 0; i < vet.length - 1; i++) {
             if (vet[i] == vet[i+1]) {
-                vet[i] = (vet[i] - 1)/3;
+                vet[i] = ((vet[i] - 1) * 2) % 60 + 1;
             }
         }
         bubbleSort(vet);
