@@ -2,9 +2,11 @@
 <resources>
 
     <!-- Tamanho de fontes -->
-    <dimen name="numero_sorteado">28sp</dimen>
+    <dimen name="numero_sorteado">26sp</dimen>
+    <dimen name="texto_botao">18sp</dimen>
 
     <!-- Tamanho de widgets -->
     <dimen name="margem_superior_sorteio">40dp</dimen>
+    <dimen name="altura_botao">100dp</dimen>
 
 </resources>
